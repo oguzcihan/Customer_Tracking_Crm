@@ -1,0 +1,1 @@
+Data Source=LENOVO\SQLEXPRESS;Initial Catalog=customer_tracking;Integrated Security=True
