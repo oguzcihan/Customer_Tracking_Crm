@@ -1,2 +1,2 @@
-# Customer_Tracking_Crm
+# Customer Tracking
 Customer tracking application programmed with C#.
